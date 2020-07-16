@@ -1,10 +1,10 @@
 ---
 layout: cv
 title: 史政源
-email: zhengyuanshi@stu.xjtu.edu.cn
 homepage:
     url: http://zoelsherry.com
     text: zoelsherry.com
+email: zhengyuanshi@stu.xjtu.edu.cn
 phone: 158 5167 0988
 ---
 # 史政源
