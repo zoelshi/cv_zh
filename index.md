@@ -5,7 +5,7 @@ email: zhengyuanshi@stu.xjtu.edu.cn
 homepage:
     url: http://zoelsherry.com
     text: zoelsherry.com
-phone: 15851670988
+phone: 158 5167 0988
 ---
 # 史政源
 
