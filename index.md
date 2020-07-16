@@ -35,14 +35,17 @@ Supported arguments:
 - 相关课程：数学分析、高等代数、数据结构
 - GPA: 3.82 \| Ranking 1/55
 
-## 项目经历
+## **项目经历**
 
 ### **西交大-蓝网 医学影像后处理功能开发** `2019.11 -`
 
-算法工程师<br>
-基于PACS框架，开发曲面重建、体绘制调窗、去床去骨、区域染色建模、体积测量、血管提取、血管狭窄分析等医学影像后处理功能
+**主要工作：** 基于PACS框架，使用C++开发曲面重建、体绘制调窗、去床去骨、区域染色建模、体积测量等医学影像后处理功能
 
-## 科研成果
+### **轻量化结构生成功能开发** `2019.2 - 2019.10`
+
+**主要工作：** 利用Poisson曲面重构算法以及极小曲面布尔运算对输入模型进行轻量化改造（Qt+OpenGL）
+
+## **科研成果**
 
 ### **An efficient method for scanned images by using color-correction and l0 gradient minimizations**
 
@@ -65,21 +68,16 @@ STATUS: Revision<br>
 _Color Research & Application_<br>
 [[PDF]({{ page.homepage.url }}/publication/color-correction/color-correction.pdf)]
 
-### **一种隐形牙套的牙齿-牙龈快速分割算法(发明专利)**
-
-李义宝, **史政源**, 夏青, 卢秉恒.<br>
-申请号或专利号: 2019108485319<br>
-案件状态: 实质审查阶段
-
-## 荣誉奖励
+## **荣誉奖励**
 
 **三等奖**，第十届“中国电机工程学会杯”全国大学生电工数学建模竞赛 <br>
 **二等奖**, 第七届MathorCup大学生数学建模挑战赛 <br>
 
-## 专业技能
+## **专业技能**
 
-编程:  C/C++、OpenGL、CUDA、Matlab， 熟悉GLSL、Unity ShaderLab<br>
-语言:  CET4: 552 | CET6: 494 <br>
+**编程：**  C/C++、OpenGL、CUDA、Matlab， 熟悉GLSL、Unity ShaderLab <br>
+**技能：**  国画（社会艺术水平十级） | 书法（社会艺术水平十级）<br>
+**语言：**  CET4: 552 | CET6: 494 <br>
 
 <!-- ### Footer
 
