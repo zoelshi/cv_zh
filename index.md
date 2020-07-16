@@ -7,7 +7,6 @@ email:
 homepage:
     url: http://zoelsherry.com
     text: zoelsherry.com
-phone: 158 5167 0988
 ---
 # 史政源
 
