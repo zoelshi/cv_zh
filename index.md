@@ -5,8 +5,9 @@ email: zhengyuanshi@stu.xjtu.edu.cn
 homepage:
     url: http://zoelsherry.com
     text: zoelsherry.com
+phone: 15851670988
 ---
-# Zhengyuan __Shi__
+# 史政源
 
 <!--
 include contact information from the front matter
@@ -17,7 +18,7 @@ Supported arguments:
 -->
 {% include cv-contact.html %}
 
-## Education
+## **教育背景**
 
 ### __西安交通大学__ `2018.9 -`
 ```
