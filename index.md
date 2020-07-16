@@ -7,8 +7,7 @@ email:
 homepage:
     url: http://zoelsherry.com
     text: zoelsherry.com
-phone: 
-    text: 158 5167 0988
+phone: 158 5167 0988
 ---
 # 史政源
 
@@ -77,7 +76,7 @@ _Color Research & Application_<br>
 ## **专业技能**
 
 **编程：**  C/C++、OpenGL、CUDA、Matlab， 熟悉GLSL、Unity ShaderLab <br>
-**技能：**  国画（社会艺术水平十级） | 书法（社会艺术水平十级）<br>
+**技能：**  国画（社会艺术水平十级）| 书法（社会艺术水平十级）<br>
 **语言：**  CET4: 552 | CET6: 494 <br>
 
 <!-- ### Footer
