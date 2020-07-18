@@ -40,33 +40,34 @@ Supported arguments:
 
 ## **项目经历**
 
-### **西交大-蓝网 医学影像后处理功能开发** `2019.11 -`
+### **西交大-蓝网 医学影像后处理功能开发(Opencv + C++)** `2019.11 -`
 
-**主要工作：** 基于PACS框架，使用C++开发曲面重建、体绘制调窗、去床去骨、区域染色建模、体积测量等医学影像后处理功能
+**主要工作：** 1. 改进了Ray Casting算法，加速体绘制调窗
+&emsp;&emsp;&emsp;&emsp;&emsp;2. 利用区域生长的栈式区段法，结合形态学操作等图像处理算法，进行体绘制去骨功能开发
+&emsp;&emsp;&emsp;&emsp;&emsp;3. 基于Allen-Cahn方程的几何活动轮廓分割算法，开发了CT区域自动分割功能
 
-### **轻量化结构生成功能开发** `2019.2 - 2019.10`
+### **轻量化结构生成功能开发(OpenGL + C++)** `2019.8 - 2019.10`
 
-**主要工作：** 利用Poisson曲面重构算法以及极小曲面布尔运算对输入模型进行轻量化改造（Qt+OpenGL）
+**主要工作：** 1. 基于Possion算法将输入模型体素化，由相场模型演化得到极小曲面体素值
+&emsp;&emsp;&emsp;&emsp;&emsp;2. 根据尺度需求对极小曲面体素做插值，并与模型体素进行布尔运算
+&emsp;&emsp;&emsp;&emsp;&emsp;3. 利用MarchingCubes算法提取体素等值面，生成轻量化结构模型并可视化
 
 ## **科研成果**
 
 ### [**An efficient method for scanned images by using color-correction and l0 gradient minimizations**]({{ page.homepage.url }}/publication/color-correction2/color-correction2.pdf)
 
 Qing Xia, **Zhengyuan Shi**, Jing Ji, and Yibao Li.<br>
-STATUS: Under Review<br>
-_Applied Mathematics and Computation_<br>
-
-### [**A simple and efficient manufacturing design method for additive manufacturing with multiple printing sizes**]({{ page.homepage.url }}/publication/additive-manufacturing/additive-manufacturing.pdf)
-
-Yibao Li, Xia Qing, **Zhengyuan Shi**, Bingheng Lu, and Junseok Kim.<br>
-STATUS: Under Review<br>
-_Additive Manufacturing_<br>
+_Applied Mathematics and Computation_ | STATUS: Under Review<br>
 
 ### [**An efficient non-linear polynomial color characterization method based on interrelations of color spaces**]({{ page.homepage.url }}/publication/color-correction/color-correction.pdf)
 
 Jing Ji, Suping Fang, **Zhengyuan Shi**,  Qing Xia, and Yibao Li.<br>
-STATUS: Revision<br>
-_Color Research & Application_<br>
+_Color Research & Application_ | STATUS: Revision<br>
+
+### [**A simple and efficient manufacturing design method for additive manufacturing with multiple printing sizes**]({{ page.homepage.url }}/publication/additive-manufacturing/additive-manufacturing.pdf)
+
+Yibao Li, Xia Qing, **Zhengyuan Shi**, Bingheng Lu, and Junseok Kim.<br>
+_Additive Manufacturing_ | STATUS: Under Review<br>
 
 ## **荣誉奖励**
 
