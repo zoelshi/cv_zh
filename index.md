@@ -26,9 +26,9 @@ Supported arguments:
 ```
 
 ```
-- 数学（硕士）
+- 应用数学（硕士）
 - 导师：[李义宝](http://gr.xjtu.edu.cn/web/yibaoli)
-- 研究方向：计算流体力学、图像几何处理、曲面重构
+- 研究方向：图像几何处理、曲面重构、计算流体力学
 
 ### __南京农业大学__ `2014.9 - 2018.6`
 ```
@@ -46,11 +46,16 @@ Supported arguments:
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2. 利用区域生长的栈式区段法，结合形态学操作等图像处理算法，进行体绘制去骨功能开发<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;3. 基于Allen-Cahn方程的几何活动轮廓分割算法，开发了CT区域自动分割功能
 
-### **轻量化结构生成功能开发(OpenGL + C++)** `2019.8 - 2019.10`
+### **模型轻量化结构生成功能开发(OpenGL + C++)** `2019.8 - 2019.10`
 
 **主要工作：**1. 基于Possion算法将输入模型体素化，由相场模型演化得到极小曲面体素值<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2. 根据尺度需求对极小曲面体素做插值，并与模型体素进行布尔运算<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;3. 利用MarchingCubes算法提取体素等值面，生成轻量化结构模型并可视化
+
+### **卡通渲染的实时流体模拟(OpenGL + CUDA)**
+
+**主要工作：**1. 使用CUDA与OpenGL互操作实现PBF流体模拟计算与splatting-based流体渲染<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2. 使用OpenGL FBO离屏渲染等特性实现了基于屏幕空间的实时流体卡通渲染技术<br>
 
 ## **科研成果**
 
@@ -77,6 +82,7 @@ _Additive Manufacturing_ | STATUS: Under Review<br>
 ## **专业技能**
 
 **编程：**  C/C++、OpenGL、CUDA、Matlab， 熟悉GLSL、Unity ShaderLab <br>
+**软件：**  Maya、Photoshop <br>
 **技能：**  国画（社会艺术水平十级）| 书法（社会艺术水平十级）<br>
 **语言：**  CET4: 552 | CET6: 494 <br>
 
