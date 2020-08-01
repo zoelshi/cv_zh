@@ -54,7 +54,7 @@ Supported arguments:
 
 ### **卡通渲染的实时流体模拟(OpenGL + CUDA)**
 
-**主要工作：**1. 使用CUDA与OpenGL互操作实现PBF流体模拟计算与splatting-based流体渲染<br>
+**主要工作：**1. 使用CUDA与OpenGL互操作实现PBF流体模拟计算与point splatting-based流体渲染<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2. 使用OpenGL FBO离屏渲染等特性实现了基于屏幕空间的实时流体卡通渲染技术<br>
 
 ## **科研成果**
