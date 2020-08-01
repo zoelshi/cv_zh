@@ -52,7 +52,7 @@ Supported arguments:
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2. 根据尺度需求对极小曲面体素做插值，并与模型体素进行布尔运算<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;3. 利用MarchingCubes算法提取体素等值面，生成具有内部填充结构的3D模型并可视化
 
-### **卡通渲染的实时流体模拟(OpenGL + CUDA)**
+### **实时流体模拟的卡通渲染(OpenGL + CUDA)**
 
 **主要工作：**1. 使用CUDA与OpenGL互操作实现PBF流体模拟计算与point splatting-based流体渲染<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2. 使用OpenGL FBO离屏渲染等特性实现了基于屏幕空间的实时流体卡通渲染技术<br>
