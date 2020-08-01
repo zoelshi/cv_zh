@@ -46,11 +46,11 @@ Supported arguments:
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2. 利用区域生长的栈式区段法，结合形态学操作等图像处理算法，进行体绘制去骨功能开发<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;3. 基于Allen-Cahn方程的几何活动轮廓分割算法，开发了CT区域自动分割功能
 
-### **模型轻量化结构生成功能开发(OpenGL + C++)** `2019.8 - 2019.10`
+### **3D模型内部结构生成功能开发(OpenGL + C++)** `2019.8 - 2019.10`
 
 **主要工作：**1. 基于Possion算法将输入模型体素化，由相场模型演化得到极小曲面体素值<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2. 根据尺度需求对极小曲面体素做插值，并与模型体素进行布尔运算<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;3. 利用MarchingCubes算法提取体素等值面，生成轻量化结构模型并可视化
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;3. 利用MarchingCubes算法提取体素等值面，生成具有内部填充结构的3D模型并可视化
 
 ### **卡通渲染的实时流体模拟(OpenGL + CUDA)**
 
