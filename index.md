@@ -59,15 +59,15 @@ Supported arguments:
 
 ## **科研成果**
 
+### [**An efficient non-linear polynomial color characterization method based on interrelations of color spaces**]({{ page.homepage.url }}/publication/color-correction/color-correction.pdf)
+
+Jing Ji, Suping Fang, **Zhengyuan Shi**,  Qing Xia, and Yibao Li.<br>
+_Color Research & Application_ | STATUS: Accept | DOI:10.1002/col.22563<br>
+
 ### [**An efficient method for scanned images by using color-correction and l0 gradient minimizations**]({{ page.homepage.url }}/publication/color-correction2/color-correction2.pdf)
 
 Qing Xia, **Zhengyuan Shi**, Jing Ji, and Yibao Li.<br>
 _Applied Mathematics and Computation_ | STATUS: Under Review<br>
-
-### [**An efficient non-linear polynomial color characterization method based on interrelations of color spaces**]({{ page.homepage.url }}/publication/color-correction/color-correction.pdf)
-
-Jing Ji, Suping Fang, **Zhengyuan Shi**,  Qing Xia, and Yibao Li.<br>
-_Color Research & Application_ | STATUS: Revision<br>
 
 ### [**A simple and efficient manufacturing design method for additive manufacturing with multiple printing sizes**]({{ page.homepage.url }}/publication/additive-manufacturing/additive-manufacturing.pdf)
 
