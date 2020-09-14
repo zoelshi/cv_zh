@@ -59,10 +59,10 @@ Supported arguments:
 
 ## **科研成果**
 
-### [**An efficient non-linear polynomial color characterization method based on interrelations of color spaces**]({{ page.homepage.url }}/publication/color-correction/color-correction.pdf)
+### [**An efficient non-linear polynomial color characterization method based on interrelations of color spaces**](https://onlinelibrary.wiley.com/doi/full/10.1002/col.22563)
 
 Jing Ji, Suping Fang, **Zhengyuan Shi**,  Qing Xia, and Yibao Li.<br>
-_Color Research & Application_ | STATUS: Accept | DOI:10.1002/col.22563<br>
+_Color Research & Application_ | STATUS: Published | DOI:10.1002/col.22563<br>
 
 ### [**An efficient method for scanned images by using color-correction and l0 gradient minimizations**]({{ page.homepage.url }}/publication/color-correction2/color-correction2.pdf)
 
