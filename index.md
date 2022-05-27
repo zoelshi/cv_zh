@@ -5,8 +5,8 @@ email:
     url: mailto:zoelsherry@qq.com
     text: zoelsherry@qq.com
 homepage:
-    url: http://zoelsherry.com
-    text: zoelsherry.com
+    url: https://zoel.me/
+    text: zoel.me
 phone: 158 5167 0988
 ---
 # 史政源
@@ -22,7 +22,7 @@ Supported arguments:
 
 ## **教育背景**
 
-### __西安交通大学__ `2018.9 -`
+### __西安交通大学__ `2018.9 - 2021.6`
 ```
 
 ```
@@ -62,17 +62,17 @@ Supported arguments:
 ### [**An efficient non-linear polynomial color characterization method based on interrelations of color spaces**](https://onlinelibrary.wiley.com/doi/full/10.1002/col.22563)
 
 Jing Ji, Suping Fang, **Zhengyuan Shi**,  Qing Xia, and Yibao Li.<br>
-_Color Research & Application_ | STATUS: Published | DOI:10.1002/col.22563<br>
+_Color Research & Application_ | DOI:10.1002/col.22563<br>
 
-### [**An efficient method for scanned images by using color-correction and l0 gradient minimizations**]({{ page.homepage.url }}/publication/color-correction2/color-correction2.pdf)
+### [**An efficient method for scanned images by using color-correction and L0 gradient minimizations**](https://www.sciencedirect.com/science/article/abs/pii/S0030402621014042)
 
-Qing Xia, **Zhengyuan Shi**, Jing Ji, and Yibao Li.<br>
-_Applied Mathematics and Computation_ | STATUS: Under Review<br>
+Jing Ji, Suping Fang, Qing Xia, **Zhengyuan Shi**.<br>
+_Optik_<br>
 
-### [**A simple and efficient manufacturing design method for additive manufacturing with multiple printing sizes**]({{ page.homepage.url }}/publication/additive-manufacturing/additive-manufacturing.pdf)
+### [**Multi-Reconstruction from Points Cloud by Using a Modified Vector-Valued Allen–Cahn Equation**](https://doi.org/10.3390/math9121326)
 
-Yibao Li, Xia Qing, **Zhengyuan Shi**, Bingheng Lu, and Junseok Kim.<br>
-_Additive Manufacturing_ | STATUS: Under Review<br>
+Jin Wang, **Zhengyuan Shi**.<br>
+_Mathematics_<br>
 
 ## **荣誉奖励**
 
